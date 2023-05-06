@@ -8,6 +8,7 @@ function Layout({children}) {
     <div className='layout'>
       <Head>
         <title>Store and Shop 🏪</title>
+    <meta name="google-site-verification" content="nxLmRlojdzeFtpwkAVLByCOZz9P7ocnBFB2wBzIYz3U" />
       </Head>
 
       <header>
