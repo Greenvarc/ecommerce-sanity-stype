@@ -6,6 +6,10 @@ import { client } from '../lib/client'
 function Home({products,bannerData}) {
   return (
     <>
+    <head>
+    <meta name="google-site-verification" content="nxLmRlojdzeFtpwkAVLByCOZz9P7ocnBFB2wBzIYz3U" />
+    </head>
+    <body>
       <HeroBanner HeroBanner={bannerData.length&& bannerData[0]}/>
       {console.log(products)}
       
@@ -19,6 +23,7 @@ function Home({products,bannerData}) {
       </div>
 
       <FooterBanner footerBanner={bannerData&& bannerData[0]}/>
+</body>
     </>
   )
 }
