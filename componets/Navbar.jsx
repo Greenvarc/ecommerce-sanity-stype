@@ -13,7 +13,7 @@ function Navbar() {
     <div className='navbar-container'>
       <p className='logo'>
         <Link href='/'>
-          Green' Mall
+          Campus Connect
         </Link>
       </p>
       <button type='button'
