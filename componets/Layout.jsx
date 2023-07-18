@@ -7,7 +7,7 @@ function Layout({children}) {
   return (
     <div className='layout'>
       <Head>
-        <title>Store and Shop 🏪</title>
+        <title>Campus Connect 🏪</title>
     <meta name="google-site-verification" content="nxLmRlojdzeFtpwkAVLByCOZz9P7ocnBFB2wBzIYz3U" />
       </Head>
 
